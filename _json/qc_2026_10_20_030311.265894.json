@@ -1,0 +1,16 @@
+{
+ "path": "C:\\Users\\marco\\Desktop\\PAM50-normalized-metrics",
+ "cmdline": "sct_deepseg_sc (\"sct_qc -i D:/ds005075/sub-A048/anat/sub-A048_T1w.nii.gz -s D:/ds005075/contrast_agnostic_segmentations/sub-A048_T1w_contrast-agnostic.nii.gz -p sct_deepseg_sc -qc D:/ds005075/qc_contrast_agnostic -qc-dataset ds005075 -qc-subject sub-A048\")",
+ "command": "sct_deepseg_sc",
+ "sctVersion": "git-master-bddc7a050319718b5e4e0856afec0bc9ea96418f",
+ "dataset": "ds005075",
+ "subject": "sub-A048",
+ "contrast": "anat",
+ "inputFile": "sub-A048_T1w.nii.gz",
+ "plane": "Axial",
+ "backgroundImage": "ds005075\\sub-A048\\anat\\sct_deepseg_sc\\2026_10_20_030311.265894\\background_img.png",
+ "overlayImage": "ds005075\\sub-A048\\anat\\sct_deepseg_sc\\2026_10_20_030311.265894\\overlay_img.png",
+ "date": "2026-10-20 03:03:11.265894",
+ "rank": "",
+ "qc": ""
+}
